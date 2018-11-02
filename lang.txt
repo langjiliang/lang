@@ -2,3 +2,4 @@ lang is good very very man
 lang is nice man
 zhang is good woman
 zhangdan is good women
+zhang push master
